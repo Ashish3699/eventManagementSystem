@@ -1,0 +1,38 @@
+.event-list {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .create-event-link {
+    display: block;
+    margin-bottom: 20px;
+    background-color: #28a745;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .create-event-link:hover {
+    background-color: #218838;
+  }
+  
+  .event-item {
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    transition: all 0.3s ease;
+  }
+  
+  .event-item:hover {
+    box-shadow: 12px 12px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  .flexBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }

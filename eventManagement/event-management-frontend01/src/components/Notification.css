@@ -1,0 +1,21 @@
+.notification-container {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 12px 12px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .notification-container h1 {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  textarea {
+    height: 100px;
+  }
+  

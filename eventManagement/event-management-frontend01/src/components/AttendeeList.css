@@ -1,0 +1,17 @@
+.attendee-list-container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 12px 12px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .attendee-item {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+  }
+  
